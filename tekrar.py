@@ -1055,7 +1055,6 @@ class saka:
 sakas = saka.for_sonuc(data=data)
 print(sakas[0].name)
 
-print("biti sonunda")
     
 
         
